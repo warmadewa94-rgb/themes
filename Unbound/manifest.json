@@ -1,0 +1,14 @@
+{
+    "name": "puhbuReMoled",
+    "id": "puhbu",
+    "type": "theme",
+    "main": "bundle.json",
+    "description": "puhbuReMoled but Unbound (it wont work)",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "puhbu",
+            "id": "763525801945071637"
+        }
+    ]
+}
