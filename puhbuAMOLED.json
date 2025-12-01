@@ -344,8 +344,9 @@
     "WHITE_500": "#ffffff",
     "WHITE_630": "#776767"
   },
-  "background": {
-    "color": "#000000"
+      "background": {
+        "url": "https://raw.githubusercontent.com/warmadewa94-rgb/themes/refs/heads/main/image(1).png",
+        "alpha": 1
   },
   "plus": {
     "version": "0",
